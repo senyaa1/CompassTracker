@@ -1,0 +1,9 @@
+main: ru.senyaa.compassTracker.Main
+name: CompassTracker
+version: 1.1
+author: senyaa
+api-version: 1.16
+
+commands:
+  compass:
+  test:
